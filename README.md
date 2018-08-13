@@ -1,3 +1,4 @@
 ## Certificates
 
-  ![ScreenShot](https://github.com/UmerSharif/AaltoGuide/blob/master/screenshot.png)
+
+  ![ScreenShot](https://github.com/UmerSharif/Certificates/blob/master/JsdataStructure.png)
